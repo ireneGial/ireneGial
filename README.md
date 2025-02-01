@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I'm a **Content Engineer-Support** at [Bestprice.g
 - Databases & **SQL**
 
 ## 📫 Connect With Me
-- **LinkedIn**: [https://www.linkedin.com/in/eirini-gialelaki/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/eirini-gialelaki/]

@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ireneGial/ireneGial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Content Engineer-Support** at [Bestprice.gr](https://www.bestprice.gr), passionate about programming, problem-solving, and optimizing content management systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Graduate of Hellenic Mediterranean University** (formerly TEI of Crete)
+- 💻 **Java & SQL Enthusiast**, exploring design patterns and software development
+- 🔬 Contributed to a research project on **Embodied Conversational Agents** for cancer patient well-being at **BMI Lab** (HMU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+- 🛠 Solve interanl and customer-related issues at **Bestprice.gr**
+- 📩 Provide support via **live chat, email, phone, and ticketing system**
+- 🏗 Continuously learning and improving my **Javascript**, **Java** and **SQL** skills
+
+## 📌 Interests
+- Automations using **Javascript**
+- Software Design & **Design Patterns**
+- Backend Development with **Java**
+- Databases & **SQL**
+
+## 📫 Connect With Me
+- **LinkedIn**: [https://www.linkedin.com/in/eirini-gialelaki/](#)
